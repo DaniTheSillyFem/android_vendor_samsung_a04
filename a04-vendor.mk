@@ -1695,7 +1695,7 @@ PRODUCT_PACKAGES += \
     libspeech_enh_lib \
     libspeechparser_vendor \
     libsrv_um \
-    libstagefright_bufferpool@2.0.1 \
+    libstagefright_bufferpool@2.0.1_vendor \
     libstagefright_foundation_vendor \
     libstagefrighthw \
     libstork_shared \
@@ -1727,9 +1727,9 @@ PRODUCT_PACKAGES += \
     libmockdrmcryptoplugin \
     libwvdrmengine \
     meta_wifi_data \
-    libdpframework \
-    libmtk_drvb \
-    libpq_prot \
+    libdpframework_mt6765 \
+    libmtk_drvb_mt6765 \
+    libpq_prot_mt6765 \
     n26_c2515_dep_cxt_mipi_mono_tuning \
     n26_c2519_dep_delta_mipi_mono_tuning \
     n26_gc02m1_dep_cxt_mipi_raw_tuning \
@@ -1757,27 +1757,27 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.bluetooth.audio@2.1 \
     vendor.mediatek.hardware.bluetooth.audio@2.2 \
     vendor.mediatek.hardware.mdmonitor@1.0 \
-    vendor.mediatek.hardware.mms@1.0 \
-    vendor.mediatek.hardware.mms@1.1 \
-    vendor.mediatek.hardware.mms@1.2 \
-    vendor.mediatek.hardware.mms@1.3 \
+    vendor.mediatek.hardware.mms@1.0_vendor \
+    vendor.mediatek.hardware.mms@1.1_vendor \
+    vendor.mediatek.hardware.mms@1.2_vendor \
+    vendor.mediatek.hardware.mms@1.3_vendor \
     vendor.mediatek.hardware.mms@1.4 \
     vendor.mediatek.hardware.mms@1.5 \
     vendor.mediatek.hardware.mms@1.6 \
-    vendor.mediatek.hardware.mtkpower@1.0 \
-    vendor.mediatek.hardware.mtkpower@1.1 \
-    vendor.mediatek.hardware.mtkpower@1.2 \
+    vendor.mediatek.hardware.mtkpower@1.0_vendor \
+    vendor.mediatek.hardware.mtkpower@1.1_vendor \
+    vendor.mediatek.hardware.mtkpower@1.2_vendor \
     vendor.mediatek.hardware.netdagent@1.0 \
     vendor.mediatek.hardware.nvram@1.0 \
     vendor.mediatek.hardware.nvram@1.1 \
     vendor.mediatek.hardware.power@2.0 \
     vendor.mediatek.hardware.power@2.1 \
-    vendor.mediatek.hardware.pq@2.0 \
-    vendor.mediatek.hardware.pq@2.1 \
+    vendor.mediatek.hardware.pq@2.0_vendor \
+    vendor.mediatek.hardware.pq@2.1_vendor \
     vendor.mediatek.hardware.pq@2.10 \
     vendor.mediatek.hardware.pq@2.11 \
-    vendor.mediatek.hardware.pq@2.2 \
-    vendor.mediatek.hardware.pq@2.3 \
+    vendor.mediatek.hardware.pq@2.2_vendor \
+    vendor.mediatek.hardware.pq@2.3_vendor \
     vendor.mediatek.hardware.pq@2.4 \
     vendor.mediatek.hardware.pq@2.5 \
     vendor.mediatek.hardware.pq@2.6 \
@@ -2062,7 +2062,7 @@ PRODUCT_PACKAGES += \
     vendor.mediatek.hardware.camera.postproc@1.0 \
     vendor.mediatek.hardware.camera.security@1.0 \
     vendor.mediatek.hardware.clientapi@1.0 \
-    vendor.mediatek.hardware.composer_ext@1.0 \
+    vendor.mediatek.hardware.composer_ext@1.0_vendor \
     vendor.mediatek.hardware.dmc@1.0 \
     vendor.mediatek.hardware.dmc@1.1 \
     vendor.mediatek.hardware.dmc@1.2 \
