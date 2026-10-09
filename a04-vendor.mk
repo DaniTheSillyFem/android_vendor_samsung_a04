@@ -1818,6 +1818,7 @@ PRODUCT_PACKAGES += \
     libvpx \
     libvt_custom \
     vendor.mediatek.hardware.rcs@2.0 \
+    android.hardware.power-service-mediatek \
     android.hardware.gnss@2.1-impl \
     gps.default \
     hwcomposer.mt6765 \
